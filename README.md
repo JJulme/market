@@ -2,15 +2,14 @@
 
 A new Flutter project.
 
-## Getting Started
+Flutter를 이용해서 간단하게 만든 게시판 앱
 
-This project is a starting point for a Flutter application.
+## 주요기능
 
-A few resources to get you started if this is your first Flutter project:
+JSON Placeholder를 이용해서 REST API 데이터를 받아온다.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<https://jsonplaceholder.typicode.com/>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+게시판의 게시물을 가져오고 해당 게시물의 내용과 댓글을 불러온다.
+
+사용자의 정보를 조회할 수 있다.
